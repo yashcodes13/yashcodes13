@@ -20,6 +20,15 @@ Aspiring Software Developer | Python | Java | Web Development | AI/ML
 - 🧠 Exploring NLP, Deep Learning and Neural Networks.
 - 🎯 Looking for opportunities to learn, collaborate and grow.
 
+
+## 🎓 Education
+
+**Bachelor of Computer Applications (BCA)**
+
+MGM's College of Computer Science and Information Technology, Nanded
+
+Maharashtra, India
+
 ## 🛠️ Technical Skills
 
 **Programming Languages**
